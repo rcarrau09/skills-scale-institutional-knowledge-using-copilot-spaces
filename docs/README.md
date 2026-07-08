@@ -23,3 +23,7 @@ Issue #3 process improvements: role clarity and phase handoff consistency are re
 - [OctoAcme — Retrospective & Continuous Improvement](./octoacme-retrospective-and-continuous-improvement.md)
 - [OctoAcme Personas](./octoacme-roles-and-personas.md)
 - [OctoAcme — Phase Handoff Checklist](./octoacme-phase-handoff-checklist.md)
+
+---
+
+_Last updated: 2026-07-08_
