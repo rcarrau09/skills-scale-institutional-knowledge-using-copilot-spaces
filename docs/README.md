@@ -10,6 +10,8 @@ Quality assurance is embedded end-to-end rather than treated as a final phase. O
 
 Issue #3 process improvements: role clarity and phase handoff consistency are reinforced with expanded personas and a reusable handoff checklist template.
 
+<!-- refreshed -->
+
 ## Documentation Index
 
 - [OctoAcme Project Management Overview](./octoacme-project-management-overview.md)
