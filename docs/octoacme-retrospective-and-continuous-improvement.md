@@ -31,3 +31,8 @@ After each sprint, release, or important milestone. Also after incidents.
 ## Continuous Improvement Culture
 - Measure impact of action items
 - Celebrate improvements and make small, iterative changes
+
+## Handoff to Next Cycle
+- Complete `octoacme-phase-handoff-checklist.md` for Retrospective -> Next Initiation/Planning Cycle.
+- Accountable owner: Project Manager.
+- Supporting roles: Product Manager, Engineering Manager / Technical Lead.

@@ -41,3 +41,8 @@ Move to planning when:
 - Success metrics are clear
 - Stakeholders agree on priority
 - Team availability is confirmed
+
+## Handoff to Planning
+- Complete `octoacme-phase-handoff-checklist.md` for Initiation -> Planning.
+- Accountable owner: Project Manager.
+- Supporting roles: Product Manager, Engineering Lead, QA (as applicable).
