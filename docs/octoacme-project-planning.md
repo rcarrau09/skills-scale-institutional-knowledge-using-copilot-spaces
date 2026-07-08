@@ -41,3 +41,8 @@ Turn an approved initiative into an actionable plan and backlog for delivery.
 - [ ] Release timeline and milestones agreed
 - [ ] Definition of Done documented
 - [ ] Initial test plan / QA approach drafted
+
+## Handoff to Execution
+- Complete `octoacme-phase-handoff-checklist.md` for Planning -> Execution.
+- Accountable owner: Project Manager.
+- Supporting roles: Product Manager, Engineering Lead, QA / Test Engineer.

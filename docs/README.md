@@ -8,6 +8,8 @@ Roles and ownership are explicit across the process. Project Managers coordinate
 
 Quality assurance is embedded end-to-end rather than treated as a final phase. OctoAcme expects small PRs linked to issues, CI checks for tests/linting/security scanning, and approval before merge, supported by unit, integration, and smoke testing as appropriate. Releases include readiness checks, rollback planning, post-deploy verification, and stakeholder communication, followed by retrospectives that turn lessons learned into owned improvement actions.
 
+Issue #3 process improvements: role clarity and phase handoff consistency are reinforced with expanded personas and a reusable handoff checklist template.
+
 ## Documentation Index
 
 - [OctoAcme Project Management Overview](./octoacme-project-management-overview.md)
@@ -18,3 +20,4 @@ Quality assurance is embedded end-to-end rather than treated as a final phase. O
 - [OctoAcme — Release & Deployment Guide](./octoacme-release-and-deployment.md)
 - [OctoAcme — Retrospective & Continuous Improvement](./octoacme-retrospective-and-continuous-improvement.md)
 - [OctoAcme Personas](./octoacme-roles-and-personas.md)
+- [OctoAcme — Phase Handoff Checklist](./octoacme-phase-handoff-checklist.md)

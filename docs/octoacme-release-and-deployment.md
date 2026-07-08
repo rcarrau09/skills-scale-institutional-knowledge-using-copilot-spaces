@@ -36,3 +36,8 @@ Standardize how OctoAcme releases features to production to reduce risk and impr
 - Notable changes:
 - Migration steps (if any):
 - Known issues:
+
+## Handoff to Retrospective
+- Complete `octoacme-phase-handoff-checklist.md` for Release -> Retrospective.
+- Accountable owner: Project Manager.
+- Supporting roles: Product Manager, Engineering Lead, Customer Support / Success.
